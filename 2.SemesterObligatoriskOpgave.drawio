@@ -413,7 +413,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-245" value="BookingDate" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="497" y="594" width="165" height="60" as="geometry" />
+          <mxGeometry x="472" y="527.5" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-250" value="Can book" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeColor=#23445d;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="687" y="487" width="164" height="90" as="geometry" />
@@ -454,7 +454,7 @@
         <mxCell id="G0pl_QO3Hfvkbfspibtp-267" value="Weekday" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;fillColor=#CFACAA;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1368.5" y="614" width="188.5" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="G0pl_QO3Hfvkbfspibtp-268" value="Weekday" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;fillColor=#CFACAA;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="G0pl_QO3Hfvkbfspibtp-268" value="ClassType" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;fillColor=#CFACAA;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1441" y="928" width="188.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-269" value="SubscriptionType" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;fontFamily=Verdana;" vertex="1" parent="1">
