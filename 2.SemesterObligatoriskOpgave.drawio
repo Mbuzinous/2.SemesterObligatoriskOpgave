@@ -134,7 +134,7 @@
         <mxCell id="G0pl_QO3Hfvkbfspibtp-132" value="FitnessCenterName" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="-44" y="825" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G0pl_QO3Hfvkbfspibtp-136" style="edgeStyle=none;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="G0pl_QO3Hfvkbfspibtp-273" target="G0pl_QO3Hfvkbfspibtp-266">
+        <mxCell id="G0pl_QO3Hfvkbfspibtp-136" style="edgeStyle=none;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="G0pl_QO3Hfvkbfspibtp-273" target="G0pl_QO3Hfvkbfspibtp-256">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="199.12991144952662" y="960.73247520933" as="sourcePoint" />
             <mxPoint x="293.75" y="855" as="targetPoint" />
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-217" value="RoomName" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-44" y="1076" width="165" height="60" as="geometry" />
+          <mxGeometry x="549" y="1031.25" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-220" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#6d8764;strokeColor=#3A5431;fontFamily=Verdana;" edge="1" parent="1" source="G0pl_QO3Hfvkbfspibtp-218" target="G0pl_QO3Hfvkbfspibtp-273">
           <mxGeometry relative="1" as="geometry">
@@ -359,7 +359,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-218" value="RoomId" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=4;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="-168" y="975" width="165" height="60" as="geometry" />
+          <mxGeometry x="396" y="925" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-222" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Verdana;" edge="1" parent="1" source="G0pl_QO3Hfvkbfspibtp-221" target="G0pl_QO3Hfvkbfspibtp-259">
           <mxGeometry relative="1" as="geometry">
@@ -464,7 +464,7 @@
           <mxGeometry x="185" y="13.75" width="188.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-273" value="Room" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#82b366;fillColor=#6D8764;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="73" y="958" width="188.5" height="64.5" as="geometry" />
+          <mxGeometry x="621" y="918" width="188.5" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
