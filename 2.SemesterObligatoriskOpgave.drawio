@@ -424,7 +424,7 @@
         <mxCell id="G0pl_QO3Hfvkbfspibtp-254" value="Associated" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#1A1A1A;strokeColor=#0e8088;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="297" y="1019" width="179" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="G0pl_QO3Hfvkbfspibtp-256" value="&lt;div&gt;Can have&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#1A1A1A;strokeColor=#0e8088;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="G0pl_QO3Hfvkbfspibtp-256" value="Has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#1A1A1A;strokeColor=#0e8088;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="656" y="782.75" width="179" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-257" value="Member subscribes to" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#1A1A1A;strokeColor=#0e8088;fontSize=12;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -463,7 +463,7 @@
         <mxCell id="G0pl_QO3Hfvkbfspibtp-271" value="Address" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#d6b656;fillColor=#fff2cc;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="185" y="13.75" width="188.5" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="G0pl_QO3Hfvkbfspibtp-273" value="Room" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#82b366;fillColor=#6D8764;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="G0pl_QO3Hfvkbfspibtp-273" value="&lt;div&gt;Room&lt;/div&gt;" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#82b366;fillColor=#6D8764;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="621" y="918" width="188.5" height="64.5" as="geometry" />
         </mxCell>
       </root>
