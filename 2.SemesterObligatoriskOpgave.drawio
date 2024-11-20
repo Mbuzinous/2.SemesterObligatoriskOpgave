@@ -448,7 +448,7 @@
         <mxCell id="G0pl_QO3Hfvkbfspibtp-264" value="ClassName" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1252" y="546" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G0pl_QO3Hfvkbfspibtp-266" value="StemFitnessCenter" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="G0pl_QO3Hfvkbfspibtp-266" value="FitnessCenter" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#82b366;fillColor=#d5e8d4;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="238.25" y="792.75" width="188.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="G0pl_QO3Hfvkbfspibtp-267" value="Weekday" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;strokeColor=#b85450;fillColor=#CFACAA;fontFamily=Verdana;" parent="1" vertex="1">
