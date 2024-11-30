@@ -2,7 +2,7 @@ ER Model - https://app.diagrams.net/#HMbuzinous%2F2.SemesterObligatoriskOpgave%2
 
 RDS Diagram - https://docs.google.com/spreadsheets/d/1tiCFCr-6zcx7nHaq9VKTSr5Nhw2XW5zyqJkIy6s1Kgc/edit?usp=sharing
 
------------------------------------------------------------------------------------- MSSQL SCRIPT ------------------------------------------------------------------------------------
+---------- MSSQL SCRIPT ----------
 
 ---- 1. Opret database
 CREATE DATABASE JumpForFun;
